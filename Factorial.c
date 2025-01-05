@@ -20,7 +20,7 @@ int main()
         {
         fact = fact * i;
         }
-        printf("The factorial of this number is: %d = %d\n", num, fact);
+        printf("The factorial of this number is: %d = %d\n", fact);
     }
     
     return 0;
